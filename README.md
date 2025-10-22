@@ -9,7 +9,7 @@
 </table>
 
 ## Curso de ingreso con Python
-
+### Tomás Avellaneda
 ### Ejercitación y Trabajos Pr&aacute;cticos para rendir el examen de ingreso.
 ## **Carrera: T&eacute;cnico superior en programación**
 

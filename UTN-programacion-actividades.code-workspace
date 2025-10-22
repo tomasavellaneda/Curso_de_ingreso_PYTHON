@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../UTN-programacion-actividades"
+		},
+		{
+			"path": "../../Proyectos Python/UTN Programacion/Arrays_Bidimensionales"
+		},
+		{
+			"path": "../../Proyectos Python/UTN Programacion/Arrays_Unidimensionales"
+		},
+		{
+			"path": "../../Proyectos Python/UTN Programacion/Cadenas_de_Caracteres"
+		},
+		{
+			"path": "../../Proyectos Python/UTN Programacion/Condicionales"
+		},
+		{
+			"path": "../../Proyectos Python/UTN Programacion/For"
+		},
+		{
+			"path": "../../Proyectos Python/UTN Programacion/Funciones"
+		},
+		{
+			"path": "../../Proyectos Python/UTN Programacion/Ordenamiento"
+		},
+		{
+			"path": "../../Proyectos Python/UTN Programacion/While"
+		}
+	],
+	"settings": {}
+}
